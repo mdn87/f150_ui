@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:io';
 import 'package:window_size/window_size.dart';
-import 'settings_screen.dart';
 import 'sidebar.dart';
 
 void main() {
